@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stagehand", "stagehand\stagehand.pyproj", "{55A58888-8C79-4C9E-BA73-757D0EB291E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A58888-8C79-4C9E-BA73-757D0EB291E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A58888-8C79-4C9E-BA73-757D0EB291E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964BB95C-7CFE-4B04-8A2A-8B028BF97ECE}
+	EndGlobalSection
+EndGlobal
