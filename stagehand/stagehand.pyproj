@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>stagehand</Name>
     <RootNamespace>stagehand</RootNamespace>
+    <IsWindowsApplication>True</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
