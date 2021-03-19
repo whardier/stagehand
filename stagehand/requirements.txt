@@ -1,5 +1,5 @@
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.1.1
 pip==19.2.3
 setuptools==41.2.0
 six==1.14.0
